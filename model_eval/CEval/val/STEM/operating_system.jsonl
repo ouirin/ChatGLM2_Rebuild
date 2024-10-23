@@ -1,0 +1,19 @@
+{"id": 0, "inputs_pretokenized": "在Unix的两个文件系统之间建立文件或目录的链接命令是____。\nA. ln\nB. ln –s\nC. ls –n\nD. ls –i", "choices_pretokenized": [" A", " B", " C", " D"], "label": 1, "targets_pretokenized": ["B"]}
+{"id": 1, "inputs_pretokenized": "下面几条中，____是动态重定位的特点。\nA. 需要一个复杂的重定位装入程序\nB. 存储管理算法比较简单\nC. 不需地址变换硬件机构的支持\nD. 在执行时将逻辑地址变换成内存地址", "choices_pretokenized": [" A", " B", " C", " D"], "label": 3, "targets_pretokenized": ["D"]}
+{"id": 2, "inputs_pretokenized": "Unix打开文件机构中的进程打开文件表是进程扩充控制块user结构中的____。\nA. u_pdir\nB. u_ofile\nC. u_dirp\nD. u_pofile", "choices_pretokenized": [" A", " B", " C", " D"], "label": 1, "targets_pretokenized": ["B"]}
+{"id": 3, "inputs_pretokenized": "在虚拟页式存储管理方案中，____完成将页面调入内存的工作。\nA. 文件读写\nB. 页面淘汰过程\nC. 页面工作集处理\nD. 缺页中断处理", "choices_pretokenized": [" A", " B", " C", " D"], "label": 3, "targets_pretokenized": ["D"]}
+{"id": 4, "inputs_pretokenized": "早期采用交换技术的目的是____。\nA. 能运行更多的程序\nB. 能运行更大的程序\nC. 实现分时系统\nD. 实现虚拟存储技术", "choices_pretokenized": [" A", " B", " C", " D"], "label": 0, "targets_pretokenized": ["A"]}
+{"id": 5, "inputs_pretokenized": "下面对于段式和页式存储管理特点的描述中，____是正确的。\nA. 页式采用静态重定位方式，段式采用静态重定位方式\nB. 页式采用静态重定位方式，段式采用动态重定位方式\nC. 页式采用动态重定位方式，段式采用静态重定位方式\nD. 页式采用动态重定位方式，段式采用动态重定位方式", "choices_pretokenized": [" A", " B", " C", " D"], "label": 3, "targets_pretokenized": ["D"]}
+{"id": 6, "inputs_pretokenized": "下面几点措施中，____不属于Unix的动态优先权法。\nA. 进程在核心态下运行，不进行强迫调度\nB. 赋予因等待不同资源或事件的睡眠进程不同的优先数\nC. 超级用户进程可以要求系统赋予较高的优先权\nD. 由时间片轮转法规定各个就绪进程顺次轮流使用处理机", "choices_pretokenized": [" A", " B", " C", " D"], "label": 3, "targets_pretokenized": ["D"]}
+{"id": 7, "inputs_pretokenized": "在Unix中，passwd命令位于____目录中的。\nA. /usr/bin\nB. /lib\nC. /etc\nD. /dev", "choices_pretokenized": [" A", " B", " C", " D"], "label": 0, "targets_pretokenized": ["A"]}
+{"id": 8, "inputs_pretokenized": "Linux存储管理的特点是采用在大小不同的分区里实现____的存储管理技术。\nA. 可变分区\nB. 分页\nC. 分段\nD. 段页式", "choices_pretokenized": [" A", " B", " C", " D"], "label": 1, "targets_pretokenized": ["B"]}
+{"id": 9, "inputs_pretokenized": "Windows_2000采用的系统模型不包括____。\nA. 客户机/服务器模型\nB. 对象模型\nC. 对称多处理模型\nD. 分布式处理模型", "choices_pretokenized": [" A", " B", " C", " D"], "label": 3, "targets_pretokenized": ["D"]}
+{"id": 10, "inputs_pretokenized": "在Unix中，向消息队列发送一个消息的系统调用是____。\nA. msgsnd\nB. shmat\nC. semop\nD. send", "choices_pretokenized": [" A", " B", " C", " D"], "label": 0, "targets_pretokenized": ["A"]}
+{"id": 11, "inputs_pretokenized": "设计批处理多道系统时，首先要考虑的是____。\nA. 灵活性和可适应性\nB. 系统效率和吞吐量\nC. 交互性和响应时间\nD. 实时性和可靠性", "choices_pretokenized": [" A", " B", " C", " D"], "label": 1, "targets_pretokenized": ["B"]}
+{"id": 12, "inputs_pretokenized": "文件保密的目的是指防止文件被____。\nA. 篡改\nB. 破坏\nC. 窃取\nD. 删除", "choices_pretokenized": [" A", " B", " C", " D"], "label": 2, "targets_pretokenized": ["C"]}
+{"id": 13, "inputs_pretokenized": "下面哪一个命令可以回到用户主目录____。\nA. cd ..\nB. cd HOME\nC. cd .\nD. cd", "choices_pretokenized": [" A", " B", " C", " D"], "label": 3, "targets_pretokenized": ["D"]}
+{"id": 14, "inputs_pretokenized": "为了文件的保密，可以用____的方法使文件的内容对其他主体无意义。\nA. 存取控制表\nB. 隐蔽文件目录\nC. 设置口令\nD. 使用密码", "choices_pretokenized": [" A", " B", " C", " D"], "label": 3, "targets_pretokenized": ["D"]}
+{"id": 15, "inputs_pretokenized": "操作系统中应用最多的数据结构是____。\nA. 堆栈\nB. 队列\nC. 树\nD. 图", "choices_pretokenized": [" A", " B", " C", " D"], "label": 1, "targets_pretokenized": ["B"]}
+{"id": 16, "inputs_pretokenized": "中断和DMA在操作过程中____嵌套。\nA. 都不可以\nB. 中断可以、但DMA不可以\nC. 都可以\nD. 中断不可以、但DMA可以", "choices_pretokenized": [" A", " B", " C", " D"], "label": 1, "targets_pretokenized": ["B"]}
+{"id": 17, "inputs_pretokenized": "在请求分页系统中，页面置换算法常用的是____。\nA. 最优淘汰算法\nB. 首次适应算法\nC. 最近最少使用淘汰算法\nD. 最佳适应算法", "choices_pretokenized": [" A", " B", " C", " D"], "label": 2, "targets_pretokenized": ["C"]}
+{"id": 18, "inputs_pretokenized": "Unix的软中断机制是____。\nA. 设备中断\nB. 信号量\nC. 系统调用\nD. 信号", "choices_pretokenized": [" A", " B", " C", " D"], "label": 3, "targets_pretokenized": ["D"]}

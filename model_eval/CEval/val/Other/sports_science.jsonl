@@ -1,0 +1,19 @@
+{"id": 0, "inputs_pretokenized": "在极限强度运动中，肌肉中的ATP和CP在多少秒内就几乎耗竭____\nA. 15\nB. 30\nC. 10\nD. 20", "choices_pretokenized": [" A", " B", " C", " D"], "label": 2, "targets_pretokenized": ["C"]}
+{"id": 1, "inputs_pretokenized": "决定VO2max的外周机制是____\nA. 肌纤维组成\nB. 有氧代谢能力\nC. 肌组织利用氧的能力\nD. 氧运输系统的机能", "choices_pretokenized": [" A", " B", " C", " D"], "label": 2, "targets_pretokenized": ["C"]}
+{"id": 2, "inputs_pretokenized": "“极点”产生早晚与____\nA. 年龄无关\nB. 训练程度无关\nC. 气候条件无关\nD. 教练员无关", "choices_pretokenized": [" A", " B", " C", " D"], "label": 3, "targets_pretokenized": ["D"]}
+{"id": 3, "inputs_pretokenized": "优秀运动员全程性多年训练过程中，训练负荷始终保持在高水平区间起伏的是____\nA. 基础训练阶段\nB. 专项提高阶段\nC. 最佳竞技阶段\nD. 竞技保持阶段", "choices_pretokenized": [" A", " B", " C", " D"], "label": 2, "targets_pretokenized": ["C"]}
+{"id": 4, "inputs_pretokenized": "下列不是准备活动的作用的是____\nA. 调节赛前状态\nB. 缩短进入工作状态\nC. 减轻“极点”程度\nD. 加速运动疲劳的恢复", "choices_pretokenized": [" A", " B", " C", " D"], "label": 3, "targets_pretokenized": ["D"]}
+{"id": 5, "inputs_pretokenized": "腿部肌肉中快肌纤维百分组成占优势的人，较适宜从事的运动项目是____\nA. 800m跑\nB. 1 500m跑\nC. 100m跑\nD. 1 500m游泳", "choices_pretokenized": [" A", " B", " C", " D"], "label": 2, "targets_pretokenized": ["C"]}
+{"id": 6, "inputs_pretokenized": "运动时，机体工作能力逐步提高是因为____\nA. 物理惰性和植物性功能惰性\nB. 运动器官功能惰性和物理惰性\nC. 植物性功能惰性和运动器官功能惰性\nD. 物理惰性和生理惰性", "choices_pretokenized": [" A", " B", " C", " D"], "label": 3, "targets_pretokenized": ["D"]}
+{"id": 7, "inputs_pretokenized": "课外运动竞赛的主要特点有竞争性、集体性与教育性、多层次与群众性以及____\nA. 知识性与协作性\nB. 生理性与心理性\nC. 趣味性与娱乐性\nD. 公正性与表现性", "choices_pretokenized": [" A", " B", " C", " D"], "label": 2, "targets_pretokenized": ["C"]}
+{"id": 8, "inputs_pretokenized": "西周的“国学”和“乡学”的教学内容为____\nA. 宗教和军事\nB. 习射及传习多种武艺\nC. 礼、乐、射、御、书、数\nD. “五项竞技”", "choices_pretokenized": [" A", " B", " C", " D"], "label": 2, "targets_pretokenized": ["C"]}
+{"id": 9, "inputs_pretokenized": "能够导致氧解离曲线右移的情况是____\nA. 血液中PCO2增高\nB. 血液中PCO2降低\nC. 血液中pH值增高\nD. 血液中PN2张力增高", "choices_pretokenized": [" A", " B", " C", " D"], "label": 0, "targets_pretokenized": ["A"]}
+{"id": 10, "inputs_pretokenized": "下面不属于克服自身体重的练习是____\nA. 引体向上\nB. 倒立推起\nC. 使用拉力器\nD. 纵跳", "choices_pretokenized": [" A", " B", " C", " D"], "label": 2, "targets_pretokenized": ["C"]}
+{"id": 11, "inputs_pretokenized": "柔道项目中的“得意技”指的是____\nA. 基本技术\nB. 特长技术\nC. 高难度技术\nD. 全面技术", "choices_pretokenized": [" A", " B", " C", " D"], "label": 1, "targets_pretokenized": ["B"]}
+{"id": 12, "inputs_pretokenized": "关于糖的分解代谢，下列说法错误的是____\nA. 在不需要氧的情况下，糖进行无氧酵解，反应在细胞浆中进行\nB. 糖进行无氧酵解时，能量利用率很低\nC. 在氧气供应充足时，肌肉中的乳酸可以再转变为葡萄糖进一步氧化供能\nD. 葡萄糖或糖原生成丙酮酸是有氧和无氧供能的共同途径", "choices_pretokenized": [" A", " B", " C", " D"], "label": 2, "targets_pretokenized": ["C"]}
+{"id": 13, "inputs_pretokenized": "下列能最好评价肺通气功能的指标是____\nA. 肺通气量\nB. 肺活量\nC. 补吸气量\nD. 时间肺活量", "choices_pretokenized": [" A", " B", " C", " D"], "label": 3, "targets_pretokenized": ["D"]}
+{"id": 14, "inputs_pretokenized": "从运动员竞技能力的决定因素看，下列项目对运动员心理能力要求最高的是____\nA. 游泳\nB. 跳水\nC. 射箭\nD. 摔跤", "choices_pretokenized": [" A", " B", " C", " D"], "label": 2, "targets_pretokenized": ["C"]}
+{"id": 15, "inputs_pretokenized": "乳酸阈可用来评定机体____\nA. 无氧能力\nB. 有氧能力\nC. 血乳酸能力\nD. ATP—CP系统能力", "choices_pretokenized": [" A", " B", " C", " D"], "label": 1, "targets_pretokenized": ["B"]}
+{"id": 16, "inputs_pretokenized": "运动员负荷量度临界值的大小受教育程度、竞技水平及健康等因素的影响，因此在训练中需要____\nA. 正确处理负荷与恢复的关系\nB. 正确理解训练负荷构成\nC. 科学动态探求负荷量度临界值\nD. 对运动员进行区别对待", "choices_pretokenized": [" A", " B", " C", " D"], "label": 2, "targets_pretokenized": ["C"]}
+{"id": 17, "inputs_pretokenized": "同为球类项目，篮球与足球对运动员身体形态、素质、技战术的要求却大不相同，主要是因为____\nA. 运动员个体的不同\nB. 教练员执教能力的不同\nC. 各项目训练条件的不同\nD. 专项竞技能力的不同", "choices_pretokenized": [" A", " B", " C", " D"], "label": 3, "targets_pretokenized": ["D"]}
+{"id": 18, "inputs_pretokenized": "影响血红蛋白氧饱和度的最主要因素是____\nA. PO2\nB. 血液pH值\nC. PCO2\nD. 血液的温度", "choices_pretokenized": [" A", " B", " C", " D"], "label": 0, "targets_pretokenized": ["A"]}

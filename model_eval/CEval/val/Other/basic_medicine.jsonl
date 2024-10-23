@@ -1,0 +1,19 @@
+{"id": 0, "inputs_pretokenized": "不属于第二信使的物质是____\nA. cAMP\nB. cGMP\nC. $IP_3$\nD. 胰岛素", "choices_pretokenized": [" A", " B", " C", " D"], "label": 3, "targets_pretokenized": ["D"]}
+{"id": 1, "inputs_pretokenized": "脱羧酶的辅酶____\nA. 生物素\nB. 叶酸\nC. 磷酸吡哆醛\nD. 硫胺素", "choices_pretokenized": [" A", " B", " C", " D"], "label": 2, "targets_pretokenized": ["C"]}
+{"id": 2, "inputs_pretokenized": "关于湿性坏疽的描述，不正确的是____\nA. 合并腐败菌感染\nB. 具有恶臭味\nC. 常有全身中毒症状\nD. 坏死组织与健康组织之间界限清楚", "choices_pretokenized": [" A", " B", " C", " D"], "label": 3, "targets_pretokenized": ["D"]}
+{"id": 3, "inputs_pretokenized": "肺梗死形成的先决条件是____\nA. 组织疏松\nB. 严重淤血\nC. 蛋白含量高\nD. 侧支循环不充分", "choices_pretokenized": [" A", " B", " C", " D"], "label": 1, "targets_pretokenized": ["B"]}
+{"id": 4, "inputs_pretokenized": "关于维生素缺乏症的叙述，不正确的是____\nA. 维生素A缺乏——夜盲症\nB. 维生素D缺乏——软骨病\nC. 维生素$B_1$ 缺乏——脚气病\nD. 维生素$B_6$缺乏——口角炎", "choices_pretokenized": [" A", " B", " C", " D"], "label": 3, "targets_pretokenized": ["D"]}
+{"id": 5, "inputs_pretokenized": "cGMP能激活____\nA. 磷脂酶C\nB. 蛋白激酶A\nC. 蛋白激酶G\nD. 酪氨酸蛋白激酶", "choices_pretokenized": [" A", " B", " C", " D"], "label": 2, "targets_pretokenized": ["C"]}
+{"id": 6, "inputs_pretokenized": "全身营养不良时，首先发生萎缩的组织或器官是____\nA. 骨骼肌\nB. 脂肪组织\nC. 肝\nD. 脑", "choices_pretokenized": [" A", " B", " C", " D"], "label": 1, "targets_pretokenized": ["B"]}
+{"id": 7, "inputs_pretokenized": "下列愈合属于完全再生的是____\nA. 神经修复\nB. 皮肤瘢痕\nC. 心梗后心肌修复\nD. 骨折愈合", "choices_pretokenized": [" A", " B", " C", " D"], "label": 3, "targets_pretokenized": ["D"]}
+{"id": 8, "inputs_pretokenized": "PCR反应中，所设计引物的长度一般为____\nA. 5～10个核苷酸\nB. 15～30个核苷酸\nC. <50个核苷酸\nD. 长度任意", "choices_pretokenized": [" A", " B", " C", " D"], "label": 1, "targets_pretokenized": ["B"]}
+{"id": 9, "inputs_pretokenized": "转氨酶的辅酶____\nA. 生物素\nB. 叶酸\nC. 磷酸吡哆醛\nD. 硫胺素", "choices_pretokenized": [" A", " B", " C", " D"], "label": 2, "targets_pretokenized": ["C"]}
+{"id": 10, "inputs_pretokenized": "下列肝细胞坏死的病变中，病毒性肝炎最常见的病理变化是____\nA. 溶解性坏死\nB. 嗜酸性坏死\nC. 点状坏死\nD. 碎片坏死", "choices_pretokenized": [" A", " B", " C", " D"], "label": 0, "targets_pretokenized": ["A"]}
+{"id": 11, "inputs_pretokenized": "肝脏在脂类代谢中所特有的作用是____\nA. 将糖转变为脂肪\nB. 由胆固醇转变为胆汁酸\nC. 生成酮体\nD. 合成磷脂", "choices_pretokenized": [" A", " B", " C", " D"], "label": 2, "targets_pretokenized": ["C"]}
+{"id": 12, "inputs_pretokenized": "导致甲状腺肿大最常见的原因是____\nA. 垂体肿瘤\nB. 缺碘\nC. 自身免疫反应\nD. 先天性疾患", "choices_pretokenized": [" A", " B", " C", " D"], "label": 1, "targets_pretokenized": ["B"]}
+{"id": 13, "inputs_pretokenized": "肝是生成尿素的唯一器官，是由于肝细胞含有____\nA. 谷氨酸脱氢酶\nB. 谷丙转氨酶\nC. 谷草转氨酶\nD. 精氨酸酶", "choices_pretokenized": [" A", " B", " C", " D"], "label": 3, "targets_pretokenized": ["D"]}
+{"id": 14, "inputs_pretokenized": "血清与血浆的区别在于血清内无____\nA. 维生素\nB. 糖类\nC. 代谢产物\nD. 纤维蛋白原", "choices_pretokenized": [" A", " B", " C", " D"], "label": 3, "targets_pretokenized": ["D"]}
+{"id": 15, "inputs_pretokenized": "可直接激活蛋白激酶C的是____\nA. cAMP\nB. cGMP\nC. $IP_3$\nD. DAG", "choices_pretokenized": [" A", " B", " C", " D"], "label": 3, "targets_pretokenized": ["D"]}
+{"id": 16, "inputs_pretokenized": "下列哪项原因不引起萎缩____\nA. 肾盂积水\nB. 慢性肝淤血\nC. 垂体功能低下\nD. 四氯化碳中毒", "choices_pretokenized": [" A", " B", " C", " D"], "label": 3, "targets_pretokenized": ["D"]}
+{"id": 17, "inputs_pretokenized": "以$IP_3$和DAG为第二信使的双信号途径是____\nA. cAMP-蛋白激酶途径\nB. $Ca^{2+}$-磷脂依赖性蛋白激酶途径\nC. cGMP-蛋白激酶途径\nD. 酪氨酸蛋白激酶途径", "choices_pretokenized": [" A", " B", " C", " D"], "label": 1, "targets_pretokenized": ["B"]}
+{"id": 18, "inputs_pretokenized": "乙型脑炎的特征性病变是____\nA. 血管淋巴套形成\nB. 软化灶形成\nC. 胶质细胞增生\nD. 卫星现象", "choices_pretokenized": [" A", " B", " C", " D"], "label": 1, "targets_pretokenized": ["B"]}

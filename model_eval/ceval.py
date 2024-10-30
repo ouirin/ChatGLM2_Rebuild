@@ -61,6 +61,8 @@ with torch.no_grad():
             intermediate_outputs = []
             for idx in range(len(outputs)):
                 output = outputs.tolist()[idx]
+                eos_index = output.index(tokenizer.eos_id)
+                output = output[:eos_index+1]
                 response = tokenizer.decode(output)
                 intermediate_outputs.append(response)
 
